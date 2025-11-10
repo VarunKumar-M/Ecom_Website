@@ -1,0 +1,19 @@
+Prompt 1: Generate a detailed technical architecture document for an E-Commerce Website using React.js (or Next.js) frontend, Node.js with Express.js backend, and MongoDB Atlas database;
+include system overview, frontend and backend architecture, database schema, integration flow, tools, and deployment considerations.
+
+Prompt 2: Generate the complete backend code for the same E-Commerce Website with Node.js, Express.js, and MongoDB using Mongoose; 
+implement REST APIs for Products, Cart, and Orders with CRUD operations, input validation, and error handling; 
+include directory structure, server.js, models, routes, controllers, .env example, and test data.
+
+Prompt 3: Generate the complete frontend code for the E-Commerce Website using React.js (or Next.js) with React Router; 
+include pages for Home, Product Details, Cart, and Checkout; 
+use Context API or Redux for state management; 
+integrate with backend via Axios or Fetch; 
+ensure responsive TailwindCSS styling and include instructions to run locally.
+
+Prompt 4: Generate MongoDB schema definitions and seed data using Mongoose for Products, Users, Cart, and Orders collections; 
+define all fields with proper types and references; 
+include example models, 3–5 sample products, user records, and a script or command to insert sample data into MongoDB Atlas.
+
+Prompt 5: Generate complete technical documentation and deployment guide for the full-stack E-Commerce Website built with React.js frontend, Express.js backend, and MongoDB Atlas; 
+include project overview, system architecture diagram, component overview, detailed API documentation, environment variables, setup steps, cloud deployment guide, and testing best practices.
